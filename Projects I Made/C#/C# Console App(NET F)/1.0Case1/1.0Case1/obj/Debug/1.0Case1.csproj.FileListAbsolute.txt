@@ -1,0 +1,3 @@
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\1.0Case1\1.0Case1\obj\Debug\1.0Case1.csproj.AssemblyReference.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\1.0Case1\1.0Case1\obj\Debug\1.0Case1.csproj.SuggestedBindingRedirects.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\1.0Case1\1.0Case1\obj\Debug\1.0Case1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,42 @@
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\bin\Debug\net6.0-windows\2.Opgave-BetteLommeregner.exe
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\bin\Debug\net6.0-windows\2.Opgave-BetteLommeregner.deps.json
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\bin\Debug\net6.0-windows\2.Opgave-BetteLommeregner.runtimeconfig.json
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\bin\Debug\net6.0-windows\2.Opgave-BetteLommeregner.dll
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\bin\Debug\net6.0-windows\2.Opgave-BetteLommeregner.pdb
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.csproj.AssemblyReference.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner_MarkupCompile.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner_MarkupCompile.lref
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.g.resources
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.AssemblyInfoInputs.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.AssemblyInfo.cs
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.dll
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\refint\2.Opgave-BetteLommeregner.dll
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.pdb
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.genruntimeconfig.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\ref\2.Opgave-BetteLommeregner.dll
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\bin\Debug\net6.0-windows\2.Opgave-BetteLommeregner.exe
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\bin\Debug\net6.0-windows\2.Opgave-BetteLommeregner.deps.json
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\bin\Debug\net6.0-windows\2.Opgave-BetteLommeregner.runtimeconfig.json
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\bin\Debug\net6.0-windows\2.Opgave-BetteLommeregner.dll
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\bin\Debug\net6.0-windows\2.Opgave-BetteLommeregner.pdb
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.csproj.AssemblyReference.cache
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner_MarkupCompile.cache
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner_MarkupCompile.lref
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.g.resources
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.AssemblyInfoInputs.cache
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.AssemblyInfo.cs
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.dll
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\refint\2.Opgave-BetteLommeregner.dll
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.pdb
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\2.Opgave-BetteLommeregner.genruntimeconfig.cache
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\2.Opgave-BetteLommeregner\2.Opgave-BetteLommeregner\obj\Debug\net6.0-windows\ref\2.Opgave-BetteLommeregner.dll

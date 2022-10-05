@@ -1,0 +1,42 @@
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\bin\Debug\net6.0-windows\1.Opgave-1.exe
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\bin\Debug\net6.0-windows\1.Opgave-1.deps.json
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\bin\Debug\net6.0-windows\1.Opgave-1.runtimeconfig.json
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\bin\Debug\net6.0-windows\1.Opgave-1.dll
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\bin\Debug\net6.0-windows\1.Opgave-1.pdb
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.csproj.AssemblyReference.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1_MarkupCompile.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1_MarkupCompile.lref
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.g.resources
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.AssemblyInfoInputs.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.AssemblyInfo.cs
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.dll
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\refint\1.Opgave-1.dll
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.pdb
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.genruntimeconfig.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\ref\1.Opgave-1.dll
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\bin\Debug\net6.0-windows\1.Opgave-1.exe
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\bin\Debug\net6.0-windows\1.Opgave-1.deps.json
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\bin\Debug\net6.0-windows\1.Opgave-1.runtimeconfig.json
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\bin\Debug\net6.0-windows\1.Opgave-1.dll
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\bin\Debug\net6.0-windows\1.Opgave-1.pdb
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.csproj.AssemblyReference.cache
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1_MarkupCompile.cache
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1_MarkupCompile.lref
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.g.resources
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.AssemblyInfoInputs.cache
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.AssemblyInfo.cs
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.dll
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\refint\1.Opgave-1.dll
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.pdb
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\1.Opgave-1.genruntimeconfig.cache
+C:\Users\Kevin\OneDrive\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\1.Opgave-1\1.Opgave-1\obj\Debug\net6.0-windows\ref\1.Opgave-1.dll

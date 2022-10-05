@@ -1,0 +1,8 @@
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\3.Opgave-BetteLommergrengerV2\3.Opgave-BetteLommergrengerV2\obj\Debug\net6.0-windows\3.Opgave-BetteLommergrengerV2.csproj.AssemblyReference.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\3.Opgave-BetteLommergrengerV2\3.Opgave-BetteLommergrengerV2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\3.Opgave-BetteLommergrengerV2\3.Opgave-BetteLommergrengerV2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\3.Opgave-BetteLommergrengerV2\3.Opgave-BetteLommergrengerV2\obj\Debug\net6.0-windows\3.Opgave-BetteLommergrengerV2_MarkupCompile.cache
+C:\Users\Kevin\OneDrive - TECHCOLLEGE\Documents\IT\1.HF\Projects I Made\C#\C# WPF Projects\3.Opgave-BetteLommergrengerV2\3.Opgave-BetteLommergrengerV2\obj\Debug\net6.0-windows\3.Opgave-BetteLommergrengerV2_MarkupCompile.lref
