@@ -1,0 +1,8 @@
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\sqltest\sqltest\bin\Debug\sqltest.exe.config
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\sqltest\sqltest\bin\Debug\sqltest.exe
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\sqltest\sqltest\bin\Debug\sqltest.pdb
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\sqltest\sqltest\obj\Debug\sqltest.csproj.AssemblyReference.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\sqltest\sqltest\obj\Debug\sqltest.csproj.SuggestedBindingRedirects.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\sqltest\sqltest\obj\Debug\sqltest.csproj.CoreCompileInputs.cache
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\sqltest\sqltest\obj\Debug\sqltest.exe
+C:\Users\adeaje\Documents\IT\1.HF\Projects I Made\C#\C# Console App(NET F)\sqltest\sqltest\obj\Debug\sqltest.pdb
